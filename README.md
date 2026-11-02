@@ -1,6 +1,6 @@
 # Portfolio | Peerzada Mohammad Sameem Makhdoomi
 
-A cybersecurity- and network engineering-focused portfolio inspired by the TryHackMe *Mr. Robot* CTF theme. Built with an interactive terminal, dynamic Three.js 3D data pipeline, and verified career telemetry.
+A cybersecurity and network engineering-focused portfolio inspired by the TryHackMe *Mr. Robot* CTF theme. Built with an interactive terminal, dynamic Three.js 3D data pipeline, and verified career telemetry.
 
 🌐 **Live Demo:** [ft10101.github.io/portfolio](https://ft10101.github.io/portfolio/)
 
